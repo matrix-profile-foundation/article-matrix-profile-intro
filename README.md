@@ -1,6 +1,6 @@
 Setup
 =====
-This code base utilizes anaconda for environmental dependencies. You may obtain anaconda (here)[https://www.anaconda.com/distribution/].
+This code base utilizes anaconda for environmental dependencies. You may obtain anaconda [here](https://www.anaconda.com/distribution/).
 
 Checkout the repository:
 
